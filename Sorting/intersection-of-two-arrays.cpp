@@ -15,6 +15,7 @@ public:
                         result.push_back(val);
                     }
                     previous = val;
+                    break;
                 }
             }
         }
